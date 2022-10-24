@@ -12,3 +12,8 @@ Cookie or not?
 - 1:1:1 weight for self-raising, plain and all-purpose flour
 - All eggs same size
 - Idga* what type of cookie - whichever websites come up first on Google
+
+## Anzac biscuits/cookies:
+- Anzac 1: https://bakeplaysmile.com/classic-anzac-biscuits-and-a-little-celebration/
+- Anzac 2: https://www.bbcgoodfood.com/recipes/anzac-biscuits
+- Anzac 3: https://www.recipetineats.com/anzac-biscuits-golden-oatmeal-cookies/
