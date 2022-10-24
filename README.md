@@ -2,6 +2,8 @@
 
 Cookie or not?
 
+This repository contains a CSV file of my cookie ingredient dataset and a Ipynb file of my code for analysis.
+
 ## Assumptions:
 
 - Basic ingredients are: fat (butter), eggs, sugar, flour
